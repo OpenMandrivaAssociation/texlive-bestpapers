@@ -3,7 +3,7 @@ Version:	38708
 Release:	2
 Summary:	A BibTeX package to produce lists of authors' best papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bestpapers
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bestpapers
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bestpapers.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bestpapers.doc.r%{version}.tar.xz
